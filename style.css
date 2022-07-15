@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color:white;
+    display:inline-flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+
+.main{
+    
+    display: inline-flex;
+    flex-direction: column;
+    color:blue;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    position: relative;
+    left: 22vw;
+    top:24vh;
+}
+
+img{
+    height: 50vh;
+    background-color: white;
+    
+}
+
+.but{
+    color: white;
+    background-color: yellow;
+    height:10vh;
+    width: 30vw;
+}
+
+.b{
+    display: inline-flex;
+    flex-direction: row; 
+}
